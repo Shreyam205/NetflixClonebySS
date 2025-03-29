@@ -18,7 +18,7 @@ body {
 }
 
 .backgroundContainer {
-    background-image: url("trending images/IN-en-20250317-TRIFECTA-perspective_d3bd14de-3c51-4227-9244-f14c89469189_large.jpg");
+    background-image: url("IN-en-20250317-TRIFECTA-perspective_d3bd14de-3c51-4227-9244-f14c89469189_large.jpg");
     filter: blur(10px);
     height: 100vh;
     position: relative;
@@ -128,7 +128,7 @@ nav {
 .bannerSection {
     /* border: 2px solid red; */
     height: 100vh;
-    background-image: url("trending images/bannerImage.jpg");
+    background-image: url("bannerImage.jpg");
     /* background-size: 100% 100%; */
     border-radius: 20px;
     /* margin-top: 2rem; */
